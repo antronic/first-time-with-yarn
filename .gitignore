@@ -1,4 +1,6 @@
-node_modules
-bower_components
+/node_modules
+/bower_components
+/src
 public/libs
-src/*
+*.dev.*
+.DS_Store
