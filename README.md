@@ -33,4 +33,4 @@ $ yarn add [package-name] -D
 ```sh
 $ yarn install
 ```
-[click here](https://yarnpkg.com/en/docs/cli/add) for more information of `$ yarn add [package-name]`
+[click here](https://yarnpkg.com/en/docs/cli/add) for more information of `$ yarn install`
