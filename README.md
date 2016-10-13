@@ -4,6 +4,6 @@ But Yarn has more security, faster, and can work on offline!
 
 ##Installation
 ###Alternative Way
----
+```bash
 $ npm install yarn -g
----
+```
