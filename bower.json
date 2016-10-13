@@ -1,0 +1,22 @@
+{
+  "name": "first-time-with-yarn",
+  "description": "Try to use yarn javascript manager by Facebook",
+  "main": "server.js",
+  "authors": [
+    "Jirachai Chansivanon"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "^5.5.3",
+    "foundation-sites": "^6.2.3"
+  }
+}
