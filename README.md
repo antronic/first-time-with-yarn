@@ -14,6 +14,7 @@ $ npm install yarn -g
 ```sh
 $ yarn init
 ```
+[click here](https://yarnpkg.com/en/docs/cli/init) for more information of `$ yarn init`
 ####Install dependencies likes `npm install [package-name]`
 ```sh
 $ yarn add [package-name]
