@@ -8,3 +8,9 @@ But Yarn has more security, faster, and can work on offline!
 ```bash
 $ npm install yarn -g
 ```
+
+##Sample command
+####Initialize your project likes `npm init`
+```bash
+$ yarn init
+```
